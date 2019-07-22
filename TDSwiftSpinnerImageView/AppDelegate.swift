@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  TDSwiftSpinnerImageView
-//
-//  Created by Michael Dai on 7/22/19.
-//  Copyright © 2019 TDSwift. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
