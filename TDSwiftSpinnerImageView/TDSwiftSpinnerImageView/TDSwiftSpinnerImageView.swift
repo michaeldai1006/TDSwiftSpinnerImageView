@@ -9,7 +9,7 @@ public class TDSwiftSpinnerImageView: UIImageView {
         super.awakeFromNib()
         
         // Init spinner
-        spinner = UIActivityIndicatorView(style: .white)
+        spinner = UIActivityIndicatorView(style: .gray)
         spinner.frame = CGRect(origin: CGPoint.zero, size: CGSize(width: 40.0, height: 40.0))
         spinner.center = CGPoint(x: self.frame.width / 2, y: self.frame.height / 2)
         spinner.hidesWhenStopped = true
